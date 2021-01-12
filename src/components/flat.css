@@ -1,5 +1,6 @@
 .flat {
-
+    flex-basis: calc(50% - 20%);
+    margin: 10px;
 }
 
 .flat-picture {
@@ -12,3 +13,4 @@
     margin-top: 10px;
     font-weight: bold;
 }
+
